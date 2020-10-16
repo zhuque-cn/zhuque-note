@@ -9,6 +9,7 @@
 `中科大镜像源: https://mirrors.ustc.edu.cn/brew.git`
 `阿里镜像源: https://mirrors.aliyun.com/homebrew/brew.git`
 `清华镜像源: https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew.git`
+`参考文档: https://www.mintimate.cn/2020/04/05/Homebrew/`
 
 ![](./images/01.jpg)
 
