@@ -1,4 +1,4 @@
-## 如何通过vscode整合git
+## <center>如何通过vscode整合git</center>
 #### 第一步 在工作区创建项目目录通过vscode打开并初始化
 ![](./images/09.jpg)
 ![](./images/10.jpg)
